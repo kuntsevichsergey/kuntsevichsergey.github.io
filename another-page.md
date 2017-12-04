@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+<img src="/image/Cubs.png" alt="bears">
 
 [back](./)
